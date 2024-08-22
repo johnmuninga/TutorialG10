@@ -14,7 +14,7 @@ const ComponentB = () => {
             )
         })):(
 
-             <Text>No data available</Text>
+             <Text>John is coding</Text>
         )
       }
     </View>
