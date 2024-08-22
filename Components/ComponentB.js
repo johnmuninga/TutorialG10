@@ -14,7 +14,7 @@ const ComponentB = () => {
             )
         })):(
 
-             <Text>John is coding</Text>
+             <Text>John is Writing</Text>
         )
       }
     </View>
